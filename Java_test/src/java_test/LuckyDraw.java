@@ -1,5 +1,5 @@
 package java_test;
-
+// TAMIL 
 import java.util.Scanner;
 
 public class LuckyDraw {
@@ -28,3 +28,4 @@ public class LuckyDraw {
 	}
 
 }
+
